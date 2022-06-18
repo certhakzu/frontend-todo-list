@@ -8,3 +8,5 @@
 Esto ejecutara la aplicacion desde su esquema inicial.
 
 Link de youtube: https://youtu.be/ue6Kd0F4Lx8
+
+Link código backend: https://github.com/certhakzu/backend-todo-list.git
